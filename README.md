@@ -15,5 +15,6 @@ Newman was installed globally via npm.
 ## Installation
 Install Node.js.
 Install Newman globally using npm:
+
 npm install -g newman
 
