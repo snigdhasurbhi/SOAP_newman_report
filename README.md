@@ -14,7 +14,11 @@ Node.js installed on your system.
 Newman was installed globally via npm.
 ## Installation
 Install Node.js.
-Install Newman globally using npm:
 
+Install Newman globally using npm:
 npm install -g newman
+
+Newman Report:
+![screencapture-file-C-Users-snigd-newman-newman-API-testing-SOAP-Project-2024-07-26-18_00_53](https://github.com/user-attachments/assets/6e13199a-9086-44ce-9c57-626c2b997ce1)
+
 
